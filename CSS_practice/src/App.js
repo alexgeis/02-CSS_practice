@@ -24,9 +24,9 @@ function App() {
           </ul>
         </nav>
       </header>
-      <div>
+      <main>
         <h2>Title</h2>
-      </div>
+      </main>
     </>
   );
 }
