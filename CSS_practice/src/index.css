@@ -1,3 +1,11 @@
+:root {
+  --ff-primary: sans-serif;
+  --clr-primary: #fff;
+  --clr-body: #333;
+  --clr-bg: #ddd;
+  --spacer: 1rem;
+}
+
 *,
 *::before,
 *::after {
