@@ -25,7 +25,7 @@ function App() {
         </nav>
       </header>
       <div>
-        <h1>Title</h1>
+        <h2>Title</h2>
       </div>
     </>
   );
