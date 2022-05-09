@@ -25,7 +25,12 @@ function App() {
         </nav>
       </header>
       <main>
-        <h2>Title</h2>
+        <section>
+          <h2>Title</h2>
+          <div>
+            <p></p>
+          </div>
+        </section>
       </main>
     </>
   );
