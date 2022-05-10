@@ -2,6 +2,12 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import Header from "./Header";
+//Planned sections
+// -media query
+// -flexbox
+// -pseudo classes/Elements
+// -forms
+// -grid
 
 export default function App() {
   return (
