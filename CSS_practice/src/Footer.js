@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <div className="footer">
-        <div>The Odin Project ❤️</div>
+        <div>Alex Geis CSS Practice ❤️</div>
       </div>
     </>
   );

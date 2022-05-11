@@ -66,8 +66,8 @@ ul {
 
 .footer {
   height: 72px;
-  background: rgb(224, 211, 211);
-  color: darkmagenta;
+  background: rgb(232, 206, 206);
+  color: rgb(255, 0, 255);
   display: flex;
   justify-content: center;
   align-items: center;
