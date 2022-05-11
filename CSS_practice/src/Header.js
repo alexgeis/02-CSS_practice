@@ -3,7 +3,7 @@ import React from "react";
 export default function Header() {
   return (
     <>
-      <header>
+      {/* <header>
         <h1>CSS Review</h1>
         <nav>
           <ul>
@@ -21,7 +21,10 @@ export default function Header() {
             </li>
           </ul>
         </nav>
-      </header>
+      </header> */}
+      <div className="header">
+        <div>MY AWESOME WEBSITE</div>
+      </div>
     </>
   );
 }
