@@ -2,6 +2,7 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import Header from "./Header";
+import Footer from "./Footer";
 //Planned sections
 // -media query
 // -flexbox
@@ -70,10 +71,7 @@ export default function App() {
             </div>
           </section>
         </div>
-
-        <div className="footer">
-          <div>The Odin Project ❤️</div>
-        </div>
+        <Footer />
       </div>
     </>
   );
